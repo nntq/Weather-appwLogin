@@ -1,0 +1,6 @@
+{
+    "weather": "http://localhost:4201/remoteEntry.js",
+    "quote": "http://localhost:4202/remoteEntry.js",
+    "login": "http://localhost:4203/remoteEntry.js"
+}
+

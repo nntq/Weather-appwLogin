@@ -1,0 +1,18 @@
+p{
+    text-align: center;
+}
+
+.quote{
+    margin-top: 30px;
+    font-style: italic;
+}
+
+.quote_author{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 5%;
+}
+
